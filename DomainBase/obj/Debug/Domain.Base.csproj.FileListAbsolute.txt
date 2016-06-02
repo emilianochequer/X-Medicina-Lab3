@@ -1,0 +1,20 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\Domain.Base.dll.config
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\Domain.Base.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\Domain.Base.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\obj\Debug\Domain.Base.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\obj\Debug\Domain.Base.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\DomainBase\obj\Debug\Domain.Base.pdb
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\Domain.Base.dll.config
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\Domain.Base.dll
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\Domain.Base.pdb
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\EntityFramework.dll
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\EntityFramework.xml
+F:\Programacion3\X-Medicina\DomainBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programacion3\X-Medicina\DomainBase\obj\Debug\Domain.Base.csprojResolveAssemblyReference.cache
+F:\Programacion3\X-Medicina\DomainBase\obj\Debug\Domain.Base.dll
+F:\Programacion3\X-Medicina\DomainBase\obj\Debug\Domain.Base.pdb

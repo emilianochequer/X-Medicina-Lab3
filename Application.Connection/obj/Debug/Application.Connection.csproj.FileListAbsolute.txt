@@ -1,0 +1,5 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Connection\bin\Debug\Application.Connection.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Connection\bin\Debug\Application.Connection.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Connection\obj\Debug\Application.Connection.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Connection\obj\Debug\Application.Connection.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Connection\obj\Debug\Application.Connection.pdb

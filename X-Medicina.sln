@@ -1,0 +1,139 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{8AF797EC-8C9C-4758-87E6-0B9B066B8EBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{2CF69232-8DB2-49AC-AB36-8ADBA61E69E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Service", "3 - Service", "{7275AAA7-D6A2-430F-ADCC-004BC34E2A05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{E7B79556-8367-4B57-B6E6-04065FE47714}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infrastructure", "5 - Infrastructure", "{097F905A-D7C2-4A74-A35E-8C11FFEE25E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{EDF35AC9-0EF2-4960-931F-707A7F7EC7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Base", "DomainBase\Domain.Base.csproj", "{84D8F1F1-3E60-4BE4-B3D1-54A26433F30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Core", "Domain.Core\Domain.Core.csproj", "{D325883E-137A-4F1C-A0C9-BBE61CDA4D35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationConnection", "Application.Connection\ApplicationConnection.csproj", "{75029C6C-1976-45D3-A88C-BB61C9E2F1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationExtensions", "Application.Extensions\ApplicationExtensions.csproj", "{2EE54E9C-F68F-4409-8906-9DD549DEAAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Core", "Service.Core\Service.Core.csproj", "{C5505EC1-2090-472F-85B3-AD0015692BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationEncryption", "Application.Encryption\ApplicationEncryption.csproj", "{93161087-F425-45F4-AD70-C2A172724138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X-Medicina", "X-Medicina\X-Medicina.csproj", "{83E99B9A-0F84-4218-9E25-8C853667B0CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebService", "WebService", "{9FA129CF-E44C-4715-B80D-790566AD383D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService.Core", "WcfService.Core\WcfService.Core.csproj", "{C923309B-C12A-4304-8B51-843411EC3951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF35AC9-0EF2-4960-931F-707A7F7EC7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF35AC9-0EF2-4960-931F-707A7F7EC7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF35AC9-0EF2-4960-931F-707A7F7EC7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF35AC9-0EF2-4960-931F-707A7F7EC7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D8F1F1-3E60-4BE4-B3D1-54A26433F30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D8F1F1-3E60-4BE4-B3D1-54A26433F30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D8F1F1-3E60-4BE4-B3D1-54A26433F30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D8F1F1-3E60-4BE4-B3D1-54A26433F30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D325883E-137A-4F1C-A0C9-BBE61CDA4D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D325883E-137A-4F1C-A0C9-BBE61CDA4D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D325883E-137A-4F1C-A0C9-BBE61CDA4D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D325883E-137A-4F1C-A0C9-BBE61CDA4D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75029C6C-1976-45D3-A88C-BB61C9E2F1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75029C6C-1976-45D3-A88C-BB61C9E2F1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75029C6C-1976-45D3-A88C-BB61C9E2F1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75029C6C-1976-45D3-A88C-BB61C9E2F1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE54E9C-F68F-4409-8906-9DD549DEAAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE54E9C-F68F-4409-8906-9DD549DEAAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE54E9C-F68F-4409-8906-9DD549DEAAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE54E9C-F68F-4409-8906-9DD549DEAAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5505EC1-2090-472F-85B3-AD0015692BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5505EC1-2090-472F-85B3-AD0015692BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5505EC1-2090-472F-85B3-AD0015692BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5505EC1-2090-472F-85B3-AD0015692BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93161087-F425-45F4-AD70-C2A172724138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93161087-F425-45F4-AD70-C2A172724138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93161087-F425-45F4-AD70-C2A172724138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93161087-F425-45F4-AD70-C2A172724138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E99B9A-0F84-4218-9E25-8C853667B0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E99B9A-0F84-4218-9E25-8C853667B0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E99B9A-0F84-4218-9E25-8C853667B0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E99B9A-0F84-4218-9E25-8C853667B0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C923309B-C12A-4304-8B51-843411EC3951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C923309B-C12A-4304-8B51-843411EC3951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C923309B-C12A-4304-8B51-843411EC3951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C923309B-C12A-4304-8B51-843411EC3951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EDF35AC9-0EF2-4960-931F-707A7F7EC7C7} = {097F905A-D7C2-4A74-A35E-8C11FFEE25E1}
+		{84D8F1F1-3E60-4BE4-B3D1-54A26433F30C} = {E7B79556-8367-4B57-B6E6-04065FE47714}
+		{D325883E-137A-4F1C-A0C9-BBE61CDA4D35} = {E7B79556-8367-4B57-B6E6-04065FE47714}
+		{75029C6C-1976-45D3-A88C-BB61C9E2F1B1} = {2CF69232-8DB2-49AC-AB36-8ADBA61E69E6}
+		{2EE54E9C-F68F-4409-8906-9DD549DEAAAE} = {2CF69232-8DB2-49AC-AB36-8ADBA61E69E6}
+		{C5505EC1-2090-472F-85B3-AD0015692BD8} = {7275AAA7-D6A2-430F-ADCC-004BC34E2A05}
+		{93161087-F425-45F4-AD70-C2A172724138} = {2CF69232-8DB2-49AC-AB36-8ADBA61E69E6}
+		{83E99B9A-0F84-4218-9E25-8C853667B0CC} = {8AF797EC-8C9C-4758-87E6-0B9B066B8EBE}
+		{9FA129CF-E44C-4715-B80D-790566AD383D} = {7275AAA7-D6A2-430F-ADCC-004BC34E2A05}
+		{C923309B-C12A-4304-8B51-843411EC3951} = {9FA129CF-E44C-4715-B80D-790566AD383D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cristiandaud777.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Infrastructure\\Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName1 = X-Medicina.sln
+		SccProjectName1 = Infrastructure
+		SccLocalPath1 = Infrastructure
+		SccProjectUniqueName2 = Domain.Core\\Domain.Core.csproj
+		SccProjectTopLevelParentUniqueName2 = X-Medicina.sln
+		SccProjectName2 = Domain.Core
+		SccLocalPath2 = Domain.Core
+		SccProjectUniqueName3 = DomainBase\\Domain.Base.csproj
+		SccProjectTopLevelParentUniqueName3 = X-Medicina.sln
+		SccProjectName3 = DomainBase
+		SccLocalPath3 = DomainBase
+		SccProjectUniqueName4 = Service.Core\\Service.Core.csproj
+		SccProjectTopLevelParentUniqueName4 = X-Medicina.sln
+		SccProjectName4 = Service.Core
+		SccLocalPath4 = Service.Core
+		SccProjectUniqueName5 = X-Medicina\\X-Medicina.csproj
+		SccProjectTopLevelParentUniqueName5 = X-Medicina.sln
+		SccProjectName5 = X-Medicina
+		SccLocalPath5 = X-Medicina
+		SccProjectUniqueName6 = Application.Connection\\ApplicationConnection.csproj
+		SccProjectTopLevelParentUniqueName6 = X-Medicina.sln
+		SccProjectName6 = Application.Connection
+		SccLocalPath6 = Application.Connection
+		SccProjectUniqueName7 = Application.Encryption\\ApplicationEncryption.csproj
+		SccProjectTopLevelParentUniqueName7 = X-Medicina.sln
+		SccProjectName7 = Application.Encryption
+		SccLocalPath7 = Application.Encryption
+		SccProjectUniqueName8 = Application.Extensions\\ApplicationExtensions.csproj
+		SccProjectTopLevelParentUniqueName8 = X-Medicina.sln
+		SccProjectName8 = Application.Extensions
+		SccLocalPath8 = Application.Extensions
+		SccProjectUniqueName9 = WcfService.Core\\WcfService.Core.csproj
+		SccProjectTopLevelParentUniqueName9 = X-Medicina.sln
+		SccProjectName9 = WcfService.Core
+		SccLocalPath9 = WcfService.Core
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Encryption\bin\Debug\Application.Encryption.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Encryption\bin\Debug\Application.Encryption.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Encryption\obj\Debug\ApplicationEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Encryption\obj\Debug\Application.Encryption.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Encryption\obj\Debug\Application.Encryption.pdb
+F:\Programacion3\X-Medicina\Application.Encryption\bin\Debug\Application.Encryption.dll
+F:\Programacion3\X-Medicina\Application.Encryption\bin\Debug\Application.Encryption.pdb
+F:\Programacion3\X-Medicina\Application.Encryption\obj\Debug\ApplicationEncryption.csprojResolveAssemblyReference.cache
+F:\Programacion3\X-Medicina\Application.Encryption\obj\Debug\Application.Encryption.dll
+F:\Programacion3\X-Medicina\Application.Encryption\obj\Debug\Application.Encryption.pdb

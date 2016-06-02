@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Domain.Core.Entities.Vacuna">
+    <Position X="1" Y="4.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Entities\Vacuna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.CalendarioVacunacion">
+    <Position X="20.75" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAhAAAAAAAAAAAAAQAAAAoASAAAAAA=</HashCode>
+      <FileName>Entities\CalendarioVacunacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.ConfiguracionMail">
+    <Position X="5.25" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAQAAAAAAAAAEAAAAADAJCAAgAAAAA=</HashCode>
+      <FileName>Entities\ConfiguracionMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Consulta">
+    <Position X="8.75" Y="7.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAABBAEAEEAQAAQAQQAgEAABAAAAAAAAAABAA=</HashCode>
+      <FileName>Entities\Consulta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.ConsultaImagen">
+    <Position X="2.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAACAAAAAAAAAABAAAAAAAAAAAAI=</HashCode>
+      <FileName>Entities\ConsultaImagen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Dosis">
+    <Position X="20" Y="1" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Entities\Dosis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Empleado">
+    <Position X="3.5" Y="6.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAACAAAAABAEkACAgAQAAAAAAECAAAAAAgwAgAA=</HashCode>
+      <FileName>Entities\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.EmpleadoConfiguracion">
+    <Position X="5.25" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAAAAAAAgAAABAAAAAAAAAAAAQAAAAAAEAAAA=</HashCode>
+      <FileName>Entities\EmpleadoConfiguracion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Empresa">
+    <Position X="12" Y="4" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAgABAQAAAAAAAEAAAAAAAAAAAAACAAAAAAwAAAAA=</HashCode>
+      <FileName>Entities\Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Familiar">
+    <Position X="13" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAAAABAAAAAEEAAAgAAAAAAAAAAAAAAAAggAAAA=</HashCode>
+      <FileName>Entities\Familiar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.HorarioAtencion">
+    <Position X="20" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAADAAAAAAAIIAABAAAAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>Entities\HorarioAtencion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.MotivoConsulta">
+    <Position X="1.75" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\MotivoConsulta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.ObraSocial">
+    <Position X="5.25" Y="11" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\ObraSocial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Paciente">
+    <Position X="16.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAAAAAAAAAgE0ACAgAAAAAAAAAAAACAAAgwAAAA=</HashCode>
+      <FileName>Entities\Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.PacienteEmbarazo">
+    <Position X="13" Y="7" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAAAABECQEIECgAgAABAAAyAAgAABAAYgA=</HashCode>
+      <FileName>Entities\PacienteEmbarazo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.PacienteParto">
+    <Position X="20" Y="5.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AABAQAAAABFAAAAEASAAAABAAAAAQAAIAAQAAQAAAAI=</HashCode>
+      <FileName>Entities\PacienteParto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Patologia">
+    <Position X="16.75" Y="10.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Patologia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.PlanDeVacunacion">
+    <Position X="8.75" Y="1" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAEAABABAo=</HashCode>
+      <FileName>Entities\PlanDeVacunacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Producto">
+    <Position X="1.5" Y="11" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.TablaCrecimiento">
+    <Position X="8.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgEAAAgAAABgAAAgBgAAAAAAAAAIgAAQAAAAAA=</HashCode>
+      <FileName>Entities\TablaCrecimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Core.Entities.Turno">
+    <Position X="16.75" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABEAQAEICQBAAAAKAAAAABAACAAAAAApACI=</HashCode>
+      <FileName>Entities\Turno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

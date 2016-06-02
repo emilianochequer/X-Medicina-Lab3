@@ -1,0 +1,32 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Domain.Core.dll.config
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Domain.Core.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Domain.Core.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Domain.Base.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Domain.Base.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\obj\Debug\Domain.Core.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Domain.Core\obj\Debug\Domain.Core.pdb
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Domain.Core.dll.config
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Domain.Core.dll
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Domain.Core.pdb
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Domain.Base.dll
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\EntityFramework.dll
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Domain.Base.pdb
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\EntityFramework.xml
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Programacion3\X-Medicina\Domain.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Programacion3\X-Medicina\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+F:\Programacion3\X-Medicina\Domain.Core\obj\Debug\Domain.Core.dll
+F:\Programacion3\X-Medicina\Domain.Core\obj\Debug\Domain.Core.pdb

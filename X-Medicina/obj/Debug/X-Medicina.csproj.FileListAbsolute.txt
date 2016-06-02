@@ -1,0 +1,8 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\X-Medicina\obj\Debug\X-Medicina.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\X-Medicina\obj\Debug\X_Medicina.Principal.resources
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\X-Medicina\obj\Debug\X_Medicina.Properties.Resources.resources
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\X-Medicina\obj\Debug\X-Medicina.csproj.GenerateResource.Cache
+F:\Programacion3\X-Medicina\X-Medicina\obj\Debug\X-Medicina.csprojResolveAssemblyReference.cache
+F:\Programacion3\X-Medicina\X-Medicina\obj\Debug\X_Medicina.Principal.resources
+F:\Programacion3\X-Medicina\X-Medicina\obj\Debug\X_Medicina.Properties.Resources.resources
+F:\Programacion3\X-Medicina\X-Medicina\obj\Debug\X-Medicina.csproj.GenerateResource.Cache

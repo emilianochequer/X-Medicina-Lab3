@@ -1,0 +1,22 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Service.Core.dll.config
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Service.Core.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Service.Core.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\AutoMapper.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\DelegateDecompiler.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\DelegateDecompiler.EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Domain.Base.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Domain.Core.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Mono.Reflection.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Domain.Core.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\Domain.Base.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\AutoMapper.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\obj\Debug\Service.Core.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\obj\Debug\Service.Core.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Service.Core\obj\Debug\Service.Core.pdb
+F:\Programacion3\X-Medicina\Service.Core\obj\Debug\Service.Core.csprojResolveAssemblyReference.cache
+F:\Programacion3\X-Medicina\Service.Core\obj\Debug\Service.Core.dll
+F:\Programacion3\X-Medicina\Service.Core\obj\Debug\Service.Core.pdb

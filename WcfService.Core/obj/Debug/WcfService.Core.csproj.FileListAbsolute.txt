@@ -1,0 +1,2 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\WcfService.Core\obj\Debug\WcfService.Core.csprojResolveAssemblyReference.cache
+F:\Programacion3\X-Medicina\WcfService.Core\obj\Debug\WcfService.Core.csprojResolveAssemblyReference.cache

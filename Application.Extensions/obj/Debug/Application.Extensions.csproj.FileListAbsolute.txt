@@ -1,0 +1,5 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Extensions\bin\Debug\Application.Extensions.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Extensions\bin\Debug\Application.Extensions.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Extensions\obj\Debug\Application.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Extensions\obj\Debug\Application.Extensions.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\Repos\X-Medicina\Application.Extensions\obj\Debug\Application.Extensions.pdb
