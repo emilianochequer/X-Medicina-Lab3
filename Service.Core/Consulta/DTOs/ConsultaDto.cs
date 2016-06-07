@@ -1,17 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using Domain.Base.Entity;
-using Domain.Core.Entities.Validation;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Domain.Core.Entities
+namespace Service.Core.Consulta.DTOs
 {
-    [Table("Consulta")]
-    [MetadataType(typeof(IConsulta))]
-    public class Consulta : BaseEntity
+    public class ConsultaDto
     {
-        // Propiedades
         public Guid MotivoConsultaId { get; set; }
         public Guid PacienteId { get; set; }
         public Guid ProfesionalId { get; set; }
@@ -46,16 +42,5 @@ namespace Domain.Core.Entities
         public decimal? IndiceGrasaCorporal { get; set; }
         public decimal? PesoIdeal { get; set; }
 
-        // Propiedades de Navegacion
-        [ForeignKey("MotivoConsultaId")]
-        public MotivoConsulta MotivoConsulta { get; set; }
-
-        [ForeignKey("PacienteId")]
-        public Paciente Paciente { get; set; }
-
-        [ForeignKey("ProfesionalId")]
-        public virtual Empleado Profesional { get; set; }
-
-        public virtual ICollection<ConsultaImagen> ConsultaImagenes  { get; set; }
     }
 }
