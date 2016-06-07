@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Service.Core.Consulta.DTOs;
+using Domain.Base.UnitOfWork;
 
 namespace Service.Core.Consulta
 {
