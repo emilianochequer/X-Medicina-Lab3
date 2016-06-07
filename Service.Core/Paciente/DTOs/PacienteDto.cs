@@ -9,7 +9,7 @@ namespace Service.Core.Paciente.DTOs
         public string Nombre { get; set; }
 
         public string ApyNom { get; set; }
-
+        public int Edad { get; set; }
         public string Dni { get; set; }
         public string Domicilio { get; set; }
         public string Telefono { get; set; }
