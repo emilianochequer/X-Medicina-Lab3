@@ -11,6 +11,8 @@ namespace Service.Core.Consulta
     {
         void Insert(ConsultaDto consulta);
         ConsultaDto Details(Guid consultaId);
-
+        ConsultaDto GetById(Guid consultaId);
+        IEnumerable<ConsultaDto> GetByFilter(string cadena);
+        IEnumerable<ConsultaDto> GetAll();
     }
 }

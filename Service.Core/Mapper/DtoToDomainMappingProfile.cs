@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Service.Core.Alimento.DTOs;
+using Service.Core.Consulta.DTOs;
 using Service.Core.ObraSocial.DTOs;
 using Service.Core.Paciente.DTOs;
 
@@ -14,6 +15,7 @@ namespace Service.Core.Mapper
             CreateMap<PacienteDto, Domain.Core.Entities.Paciente>();
             CreateMap<ObraSocialDto, Domain.Core.Entities.ObraSocial>();
             CreateMap<AlimentoDto, Domain.Core.Entities.Alimento>();
+            CreateMap<ConsultaDto, Domain.Core.Entities.Consulta>();
         }
     }
 }

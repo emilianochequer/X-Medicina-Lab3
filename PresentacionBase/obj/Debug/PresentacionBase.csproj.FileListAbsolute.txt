@@ -1,0 +1,49 @@
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.FormularioABM.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.FormularioBase.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.FormularioConsulta.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.Cache
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.RecursosCompartidos.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico\PresentacionBase\obj\Debug\PresentacionBase.csprojResolveAssemblyReference.cache
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioABM.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioBase.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioConsulta.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.RecursosCompartidos.resources
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.Cache
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\CAD\Tecnicatura\Laboratorio II\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioABM.resources
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioBase.resources
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioConsulta.resources
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.RecursosCompartidos.resources
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Usuario\Desktop\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioABM.resources
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioBase.resources
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioConsulta.resources
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.RecursosCompartidos.resources
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\Usuario\Desktop\aa\Emiliano\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csprojResolveAssemblyReference.cache
+F:\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.dll
+F:\Biometrico - Alumnos\PresentacionBase\bin\Debug\PresentacionBase.pdb
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csprojResolveAssemblyReference.cache
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioABM.resources
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioBase.resources
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.FormularioConsulta.resources
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.RecursosCompartidos.resources
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.Cache
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.dll
+F:\Biometrico - Alumnos\PresentacionBase\obj\Debug\PresentacionBase.pdb

@@ -3,6 +3,7 @@ using AutoMapper;
 using Service.Core.Paciente.DTOs;
 using Service.Core.Alimento.DTOs;
 using Service.Core.ObraSocial.DTOs;
+using Service.Core.Consulta.DTOs;
 
 namespace Service.Core.Mapper
 {
@@ -18,7 +19,10 @@ namespace Service.Core.Mapper
 
             CreateMap<Domain.Core.Entities.Alimento, AlimentoDto>();
             CreateMap<Domain.Core.Entities.ObraSocial, ObraSocialDto>();
-
+            CreateMap<Domain.Core.Entities.Consulta, ConsultaDto>();
+            CreateMap<Domain.Core.Entities.Consulta, IMCxPersonaDto>()
+                .ForMember(dto => dto.Fecha, map => map.MapFrom(p => p.Fecha))
+                .ForMember(dto => dto.IMC, map => map.MapFrom(p => p.IMC));
         }
     }
 }
