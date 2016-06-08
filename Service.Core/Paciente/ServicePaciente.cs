@@ -89,5 +89,30 @@ namespace Service.Core.Paciente
             var paciente = Mapper.Map<IEnumerable< Domain.Core.Entities.Consulta>, IEnumerable< IMCxPersonaDto>>(listaPaciente);
             return paciente;
         }
+        public IEnumerable<PIxPacienteDto> GetPesoIdeal(Guid pacienteId)
+        {
+            Expression<Func<Domain.Core.Entities.Consulta, bool>> pred = x => true;
+            pred = pred.And(x => x.PacienteId == pacienteId);
+            var listaPaciente = Uow.Repository<Domain.Core.Entities.Consulta>().GetByFilter(pred);
+            var paciente = Mapper.Map<IEnumerable<Domain.Core.Entities.Consulta>, IEnumerable<PIxPacienteDto>>(listaPaciente);
+            return paciente;
+        }
+        public IEnumerable<ICCxPacienteDto> GetIndiceCaderaCintura(Guid pacienteId)
+        {
+            Expression<Func<Domain.Core.Entities.Consulta, bool>> pred = x => true;
+            pred = pred.And(x => x.PacienteId == pacienteId);
+            var listaPaciente = Uow.Repository<Domain.Core.Entities.Consulta>().GetByFilter(pred);
+            var paciente = Mapper.Map<IEnumerable<Domain.Core.Entities.Consulta>, IEnumerable<ICCxPacienteDto>>(listaPaciente);
+            return paciente;
+        }
+        public IEnumerable<IGCDxPacienteDto> GetIndiceGrasaCorporal(Guid pacienteId)
+        {
+            Expression<Func<Domain.Core.Entities.Consulta, bool>> pred = x => true;
+            pred = pred.And(x => x.PacienteId == pacienteId);
+            var listaPaciente = Uow.Repository<Domain.Core.Entities.Consulta>().GetByFilter(pred);
+            var paciente = Mapper.Map<IEnumerable<Domain.Core.Entities.Consulta>, IEnumerable<IGCDxPacienteDto>>(listaPaciente);
+            return paciente;
+        }
+
     }
 }

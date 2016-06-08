@@ -23,6 +23,12 @@ namespace Service.Core.Mapper
             CreateMap<Domain.Core.Entities.Consulta, IMCxPersonaDto>()
                 .ForMember(dto => dto.Fecha, map => map.MapFrom(p => p.Fecha))
                 .ForMember(dto => dto.IMC, map => map.MapFrom(p => p.IMC));
+            CreateMap<Domain.Core.Entities.Consulta, PIxPacienteDto>()
+                .ForMember(dto => dto.Fecha, map => map.MapFrom(p => p.Fecha))
+                .ForMember(dto => dto.PesoIdeal, map => map.MapFrom(p => p.PesoIdeal));
+                        CreateMap<Domain.Core.Entities.Consulta, ICCxPacienteDto>()
+                .ForMember(dto => dto.Fecha, map => map.MapFrom(p => p.Fecha))
+                .ForMember(dto => dto.IndiceCaderaCintura, map => map.MapFrom(p => p.IndiceCaderaCintura));
         }
     }
 }
